@@ -7,26 +7,6 @@ sales performance, profitability, regions, categories, sub-categories, discounts
 
 The project demonstrates **real-world Data Analyst skills** required for internships and entry-level roles.
 
----
-
-## 📂 Project Structure
-SUPERSTORE_ANALYSIS/
-                  │
-                  ├── dashboard/
-                  │ └── sales_analysis.pbix # Power BI interactive dashboard
-                  │
-                  ├── data/
-                  │ └── superstore.csv # Raw dataset
-                  │
-                  ├── notebooks/
-                  │ └── eda.ipynb # Python EDA & visualization
-                  │
-                  ├── sql/
-                  │ └── sales_analysis.sql # Complete SQL analysis queries
-
-
----
-
 ## 🧰 Tools & Technologies
 - **Python** (pandas, matplotlib, seaborn)
 - **MySQL** (SQL analysis, data ingestion)
