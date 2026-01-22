@@ -11,18 +11,18 @@ The project demonstrates **real-world Data Analyst skills** required for interns
 
 ## 📂 Project Structure
 SUPERSTORE_ANALYSIS/
-│
-├── dashboard/
-│ └── sales_analysis.pbix # Power BI interactive dashboard
-│
-├── data/
-│ └── superstore.csv # Raw dataset
-│
-├── notebooks/
-│ └── eda.ipynb # Python EDA & visualization
-│
-├── sql/
-│ └── sales_analysis.sql # Complete SQL analysis queries
+                  │
+                  ├── dashboard/
+                  │ └── sales_analysis.pbix # Power BI interactive dashboard
+                  │
+                  ├── data/
+                  │ └── superstore.csv # Raw dataset
+                  │
+                  ├── notebooks/
+                  │ └── eda.ipynb # Python EDA & visualization
+                  │
+                  ├── sql/
+                  │ └── sales_analysis.sql # Complete SQL analysis queries
 
 
 ---
